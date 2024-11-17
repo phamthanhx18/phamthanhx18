@@ -7,7 +7,6 @@ I'm Software Developer
 * 🌍  I'm based in Đà Nẵng
 * 🖥️  See my portfolio at [Profilio](http://thanhpham.dev)
 * ✉️  You can contact me at [phamthanhx18@gmail.com](mailto:phamthanhx18@gmail.com)
-* 🚀  I'm currently working on [Inno MMO](http://innommo.com)
 
 ### Skills
 
