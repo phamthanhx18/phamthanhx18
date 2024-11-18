@@ -5,7 +5,7 @@ I'm Software Developer
 ----------------------
 
 * 🌍  I'm based in Đà Nẵng
-* 🖥️  See my portfolio at [Profilio](http://thanhpham.dev)
+* 🖥️  See my portfolio at [thanhpham.dev](http://thanhpham.dev)
 * ✉️  You can contact me at [phamthanhx18@gmail.com](mailto:phamthanhx18@gmail.com)
 
 ### Skills
